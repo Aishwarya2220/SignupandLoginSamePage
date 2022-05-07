@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Card {
+  background-color: cornflowerblue;
+  width: fit-content;
+  padding: 10px;
+}
+img {
+  width: 100px;
+  width: 100px;
+}
+.loginbtn,
+.signupbtn {
+  border: none;
+  margin: 5px;
+}
+.loginbtn:hover {
+  border-bottom: cadetblue 1px solid;
+}
+.signupbtn:hover {
+  border-bottom: cadetblue 1px solid;
+}
+Login {
+  margin: 10px;
+}
